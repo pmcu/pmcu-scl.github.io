@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 4%;
+    background-image: url("paper.png");
+}
+img{
+float:left;
+margin-top: 30px;
+margin-right: 10px;
+}
+p{
+text-align: justify;
+font-family: Verdana;
+font-size: 1em;
+padding:10px;
+}
+h2{
+font-family: "Baskerville, serif;
+font-size:18px;
+text-align: center;
+color: #001a00;
+}
+a{
+text-decoration:none;
+}
