@@ -1,6 +1,3 @@
-* {
-    box-sizing: border-box;
-}
 
 body {
     margin: 4%;
@@ -23,6 +20,11 @@ font-size:18px;
 text-align: center;
 color: #001a00;
 }
+
+div{
+width:60%;
+}
+
 a{
 text-decoration:none;
 }
