@@ -1,0 +1,9 @@
+ceangal.png
+fathach3.jpg
+home.png
+iascaire.jpg
+paper.png
+sc1-2.txt
+scl1.css
+scl-1.html
+scl-2.html
