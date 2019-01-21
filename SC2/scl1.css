@@ -22,6 +22,7 @@ color: #001a00;
 }
 
 #overflow{
+float:left;
 padding:15px;
 width:70%;
 height:600px;
