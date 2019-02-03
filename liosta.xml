@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="liosta.xsl"?>
+<cnuas>
+<scl id="1">
+<ainm>Scéal Mic Bradáin</ainm>
+<ceantar>Inis Meáin</ceantar>
+<LINK VALUE="SC1/scl-1.html">Mac Bradáin</LINK>
+</scl>
+<scl id="2">
+<ainm>Ealaí faoi Dhraoidheacht</ainm>
+<ceantar>Corcaí</ceantar>
+<LINK VALUE="SC2/scl2-1.html">Ealaí</LINK>
+</scl>
+<scl id="3">
+<ainm>Daoine Maithe is Mac Mathghamhna</ainm>
+<ceantar>Ciarraí</ceantar>
+<LINK VALUE="SC3/scl3-1.html">Ó Mathghamhna</LINK>
+</scl>
+</cnuas>
