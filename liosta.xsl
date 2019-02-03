@@ -7,13 +7,13 @@
       table {
         font-family: arial, sans-serif;
         border-collapse: collapse;
-        width: 100%;
+        width: 70%;
       }
       th, td {
   padding: 10px;
 }
 img{
-width:100%;
+width:70%;
 
 }
     </style>
