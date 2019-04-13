@@ -3,7 +3,14 @@
 
 <xsl:template match="/">
   <html>
+
     <style>
+      body {
+          margin: 0;
+          background-image:url("pic/old_moon.png");
+      }
+
+
       table {
         font-family: arial, sans-serif;
         border-collapse: collapse;
