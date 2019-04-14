@@ -6,7 +6,7 @@
 
     <style>
       body {
-          margin: 0;
+          margin: 15%;
           background-image:url("pic/old_moon.png");
       }
 
