@@ -22,7 +22,7 @@ li a {
 }
 
 li a.active {
-    background-color: #f49e42;
+    background-color: grey;
     color: white;
 }
 
