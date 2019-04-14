@@ -14,7 +14,7 @@
       table {
         font-family: arial, sans-serif;
         border-collapse: collapse;
-        width: 70%;
+        width: 60%;
       }
       th, td {
   padding: 10px;
