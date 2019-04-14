@@ -19,17 +19,31 @@
       th, td {
   padding: 10px;
 }
-img{
-width:70%;
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#tdl{
+text-align:center;
+}
+#tag{
+text-align:left;
 }
     </style>
 <body>
-<img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img>
-<h2>Irisleabhar na Gaeilge - IM3 - Scéalta</h2>
+
+  <table>
+    <tr>
+      <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
+    </tr>
+<tr><td id="tdl"><h2>Scéalta as Irisleabhar na Gaeilge</h2></td></tr>
+</table>
 
 <table border="1">
-  <tr bgcolor="#9acd32">
+
+  <tr >
     <th>ID</th>
     <th>Ainm</th>
     <th>Ceantar</th>
@@ -50,7 +64,12 @@ width:70%;
        </td>
      </tr>
 </xsl:for-each>
+
 </table>
+<br></br>
+  <hr></hr>
+<table><tr><td ><img src="home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
+
 </body>
 </html>
 </xsl:template>
