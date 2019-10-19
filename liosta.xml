@@ -26,4 +26,10 @@
 <ceantar>Dún na nGall</ceantar>
 <LINK VALUE="SC6/iasc-bs-1.html">Iascaire Bhéal Átha Seannaigh</LINK>
 </scl>
+<scl id="6">
+<ainm>Domhnall Dubh agus Bradán Loch Rí</ainm>
+<ceantar>Gaillimh</ceantar>
+<LINK VALUE="SC7/domhnallDubh.html">Domhnall Dubh</LINK>
+</scl>
+
 </cnuas>
