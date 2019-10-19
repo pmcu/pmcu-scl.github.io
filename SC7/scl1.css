@@ -3,7 +3,10 @@ body {
     margin: 5%;
     background-image: url("paper.png");
 }
+td {
+vertical-align: top;
 
+}
 
 img {
   display: block;
