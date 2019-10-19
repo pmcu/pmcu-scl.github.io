@@ -1,0 +1,46 @@
+
+body {
+    margin: 5%;
+    background-image: url("paper.png");
+}
+td {
+vertical-align: top;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+text-align: justify;
+font-family: Verdana;
+font-size: 1em;
+padding:10px;
+
+}
+h1,h2,h3,h4{
+font-family: Baskerville, serif;
+text-align: center;
+color: #001a00;
+}
+
+#overflow{
+padding:15px;
+width:70%;
+height:600px;
+border: 1px solid #ccc;
+overflow:scroll;
+}
+
+
+div{
+width:70%;
+align-content: center;
+}
+
+a{
+text-decoration:none;
+}
