@@ -3,11 +3,14 @@ body {
     margin: 5%;
     background-image: url("paper.png");
 }
-img{
 
-margin-top: 30px;
-margin-right: 10px;
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 p{
 text-align: justify;
 font-family: Verdana;
@@ -17,7 +20,6 @@ padding:10px;
 }
 h1,h2,h3,h4{
 font-family: Baskerville, serif;
-font-size:18px;
 text-align: center;
 color: #001a00;
 }
