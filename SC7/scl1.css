@@ -13,6 +13,7 @@ text-align: justify;
 font-family: Verdana;
 font-size: 1em;
 padding:10px;
+
 }
 h1,h2,h3,h4{
 font-family: Baskerville, serif;
@@ -32,6 +33,7 @@ overflow:scroll;
 
 div{
 width:70%;
+align-content: center;
 }
 
 a{
