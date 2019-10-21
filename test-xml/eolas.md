@@ -1,7 +1,7 @@
 ## Eolas
 
 :octocat:
-
+![GitHub Logo](/images/logo.png)
 --------------------------
 Seo leathanach lena thástáil cad é an chuma a thiocfas
 ar an markdown.
