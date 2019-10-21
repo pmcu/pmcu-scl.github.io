@@ -48,6 +48,7 @@ text-align:left;
     <th>Ainm</th>
     <th>Ceantar</th>
     <th>Nasc</th>
+    <th>Lucht</th>
 </tr>
 <xsl:for-each select="cnuas/scl">
   <tr>
