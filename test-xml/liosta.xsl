@@ -62,6 +62,7 @@ text-align:left;
                <xsl:value-of select="LINK"/>
                </a>
        </td>
+<td><xsl:value-of select="lucht"/></td>
      </tr>
 </xsl:for-each>
 
