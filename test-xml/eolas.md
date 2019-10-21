@@ -1,6 +1,6 @@
 ## Eolas
 
-![tae](pic/am-tae.jpg)
+![tae](/pic/am-tae.jpg)
 
 
 --------------------------
