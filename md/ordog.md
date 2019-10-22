@@ -6,7 +6,7 @@ riamh, agus gan acht aon tsúil amháin aige, agus í
 sin i gclár a éadain.  Do tháinig iongnadh
 orm an tráth do chonnac é.  
 
-D'fhéach séorm agus d'fhiafaigh sé dhíom cérbh é me.
+D'fhéach sé orm agus d'fhiafaigh sé dhíom cérbh é me.
 
 “Is mise Fionn Mac Cumhaill,” arsa mise.
 
