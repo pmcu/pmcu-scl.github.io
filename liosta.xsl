@@ -35,7 +35,7 @@ text-align:left;
 }
     </style>
 <body>
-
+	<hr>
   <table>
     <tr>
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
@@ -68,7 +68,7 @@ text-align:left;
 </xsl:for-each>
 </table>
 <br></br>
-<table><tr><td ><img src="home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
+<table><tr><td ><img src="/pic/home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
 
 </body>
 </html>
