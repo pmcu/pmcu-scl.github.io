@@ -69,7 +69,6 @@ text-align:left;
 
 </table>
 <br></br>
-  <hr></hr>
 <table><tr><td ><img src="home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
 
 </body>
