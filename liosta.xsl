@@ -3,7 +3,7 @@
 
 <xsl:template match="/">
   <html>
-
+	  <hr>
     <style>
       body {
           margin: 5%;
