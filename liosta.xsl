@@ -3,7 +3,6 @@
 
 <xsl:template match="/">
   <html>
-	  <hr />
     <style>
       body {
           margin: 5%;
@@ -40,9 +39,9 @@ text-align:left;
     <tr>
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
     </tr>
+    <ht />
 <tr><td id="tdl"><h2>Scéalta as Irisleabhar na Gaeilge</h2></td></tr>
 </table>
-
 <table border="1">
 
   <tr >
