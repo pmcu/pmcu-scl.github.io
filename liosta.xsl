@@ -10,7 +10,7 @@
           background-image:url("pic/old_moon.png");
       }
 
-      link{
+     a:link{
      text-decoration:none;
       }
       table {
