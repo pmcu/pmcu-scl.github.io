@@ -31,5 +31,9 @@
 <ceantar>Gaillimh</ceantar>
 <LINK VALUE="SC7/domhnallDubh.html">Domhnall Dubh</LINK>
 </scl>
-
+<scl id="7">
+<ainm>Díorfach Dhún Alt</ainm>
+<ceantar>Dún na nGall</ceantar>
+<LINK VALUE="SC8/diorf.html">Díorfach Dhún Alt</LINK>
+</scl>
 </cnuas>
