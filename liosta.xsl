@@ -10,7 +10,9 @@
           background-image:url("pic/old_moon.png");
       }
 
-
+      link{
+     text-decoration:none;
+      }
       table {
         font-family: arial, sans-serif;
         border-collapse: collapse;
