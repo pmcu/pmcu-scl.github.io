@@ -1,4 +1,4 @@
-[Baile](/index.html) [Scéalta](/liosta.xml)
+[Baile](/index.html) | [Scéalta](/liosta.xml)
 ----
 # Scéal Sheáin Mic Bradáin
 
