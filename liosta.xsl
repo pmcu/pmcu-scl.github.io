@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
-    <style>
-      body {
-          margin: 10%;
-          background-image:url("pic/old_moon.png");
-      }
-
-     a{
-     text-decoration:none;
-      }
-      table {
-        font-family: arial, sans-serif;
-        border-collapse: collapse;
-        width: 60%;
-      }
-      th, td {
-  padding: 10px;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-#tdl{
-text-align:center;
-}
-#tag{
-text-align:left;
-}
-    </style>
 <body>
   <table border="1">
     <tr>
