@@ -1,4 +1,4 @@
-[Baile](../index.html)
+[Baile](/index.html)
 ----
 # Scéal Sheáin Mic Bradáin
 
