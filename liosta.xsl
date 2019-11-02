@@ -34,8 +34,7 @@ text-align:left;
 }
     </style>
 <body>
-	<hr></hr>
-  <table>
+  <table border="1">
     <tr>
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
     </tr>
