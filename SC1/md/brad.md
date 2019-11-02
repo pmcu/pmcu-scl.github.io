@@ -1,3 +1,5 @@
+[Baile](../index.html)
+----
 # Scéal Sheáin Mic Bradáin
 
 Fuarthas an scéal seo in Inis Meáin. Is dóighe,
