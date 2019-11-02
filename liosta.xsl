@@ -52,21 +52,20 @@ text-align:left;
     <th>Nasc</th>
 </tr>
 <xsl:for-each select="cnuas/scl">
-  <tr>
-    <td>
+<tr>
+<td>
 <xsl:value-of select="@id"/>
 </td>
 <td><xsl:value-of select="ainm"/></td>
 <td><xsl:value-of select="ceantar"/></td>
 <td>
-               <a><xsl:attribute name="href">
-               <xsl:value-of select="LINK/@VALUE"/></xsl:attribute>
-               <xsl:value-of select="LINK"/>
-               </a>
-       </td>
-     </tr>
+<a><xsl:attribute name="href">
+<xsl:value-of select="LINK/@VALUE"/></xsl:attribute>
+<xsl:value-of select="LINK"/>
+</a>
+</td>
+</tr>
 </xsl:for-each>
-
 </table>
 <br></br>
 <table><tr><td ><img src="home.png"></img></td><td><a href="index.html">Baile</a></td></tr></table>
