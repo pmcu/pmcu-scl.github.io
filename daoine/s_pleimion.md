@@ -3,7 +3,8 @@
 # Pléimeann Seán - 1814-96
 
 Ba é Seán Pléimeann an chéad eagarthóir de Iris na Gaeilge,
-agus ba é a scríobh an chéad
+agus ba é a scríobh an chéad alt. Seo thíos an chéad ghiota
+de.
 
 > AN GHAEDHILIG INS AN NAOMHADH AOIS DEUG.
 
