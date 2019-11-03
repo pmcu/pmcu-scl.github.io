@@ -4,7 +4,7 @@ Lá dá rabhas ag siúl cois abhann do
 casadh orm an gaiscíoch ba mhó dá bhfaca
 riamh, agus gan acht aon tsúil amháin aige, agus í
 sin i gclár a éadain.  Do tháinig iongnadh
-orm an tráth do chonnac é.  
+orm an tráth do chonnac é.
 
 D'fhéach sé orm agus d'fhiafaigh sé dhíom cérbh é me.
 
@@ -27,56 +27,55 @@ Do rinneas amhlaidh sin agus do shuíos cois
 na teine ag tabhairt aire don mbradán.  Ba
 gheárr go bhfaca clog mór ag éirí ar
 dhroim an éisc, agus do tháinig eagla orm go
-bhfeicfeadh an gaiscíoch é.  
+bhfeicfeadh an gaiscíoch é.
 
 Do chúireas m'órdóg anuas ar an chlog chum é ísliú
 i gcás ná tiubhradh an gaisgidheach faoi
 n'aire é nuair a d'éiríodh sé.  Do dóghadh
 m'órdóg chun an smior, agus lena linn so do
-sháitheas isteach i mo bhéal í.  
+sháitheas isteach i mo bhéal í.
 
-Is ansan do fuaras fios ar an bhfáth go raibh 
+Is ansan do fuaras fios ar an bhfáth go raibh
 an gaiscíoch ag faire an bhradáin, agus dá n-éireodh
 sé an fhad do bhíos i láthair go gcuirfeadh
 sé chun báis mé.  Ag súil go bhféadfainn
 teitheadh le m'anam uaidh do rugas ar bharra
 mór iarainn do bhí ar an dteinnteán agus do
 sháitheas suas é san aon súil amháin do
-bhí ag an bhfear mór.  
+bhí ag an bhfear mór.
 
-Do thug sé léim as an leabaidh agus do liúigh sé 
+Do thug sé léim as an leabaidh agus do liúigh sé
 amach, “A fháinne, cá bhfuilir?”  Do labhair an fáinne,
-agus adubhairt, “Táim annso go dlúth daingean ar mhéar 
-Fhinn Mic Chumhaill.”  
-
+agus adubhairt, “Táim annso go dlúth daingean ar mhéar
+Fhinn Mic Chumhaill.”
 
 Do thug an gaiscíoch léim eile faoi dhéin na
 h-áite inar chuala sé an guth, acht do
 ritheas-sa liom fhéin, agus níor tháinig leis an
 ngaiscíoch breith orm.  Do bhí an gaiscíoch
-ar an chuma sin ag glaodhach ar an bhfáinne agus 
-an fáinne dá fhreagairt ar feadh urmhóir an lae 
-gur tháinig an trátnóna, agus do theip air teacht 
-suas liom.  
+ar an chuma sin ag glaodhach ar an bhfáinne agus
+an fáinne dá fhreagairt ar feadh urmhóir an lae
+gur tháinig an trátnóna, agus do theip air teacht
+suas liom.
 
-Do bhíos tuirseach tnáithte ó bheith ag imtheacht 
-ó áit go h-áit, agus ní fheadar cad ba cheart 
+Do bhíos tuirseach tnáithte ó bheith ag imtheacht
+ó áit go h-áit, agus ní fheadar cad ba cheart
 dam a dhéanamh.  Thar éis machtnaimh tamall do
 mheasas go mb' fheárr an méar ar a raibh
-an fáinne do ghearradh dhíom.  Do rinneas agus do 
-chaítheas isteach 'san abhainn é.  
+an fáinne do ghearradh dhíom.  Do rinneas agus do
+chaítheas isteach 'san abhainn é.
 
 Do ghlaodhaigh an gaisgidheach arís, “A fháinne,
-cá bhfuilir?”  
+cá bhfuilir?”
 
-“Táim annso go daingean ar mhéar Finn Mhic Chumhaill 
-in íochtar na habhann.”  
+“Táim annso go daingean ar mhéar Finn Mhic Chumhaill
+in íochtar na habhann.”
 
-Do bhrígh ná raibh aon radharc ag an ngaiscíoch agus 
-ná faca sé cá raibh sé ag dul thug sé truslóg go 
-híochtar na habhann agus do báthadh é.  
+Do bhrígh ná raibh aon radharc ag an ngaiscíoch agus
+ná faca sé cá raibh sé ag dul thug sé truslóg go
+híochtar na habhann agus do báthadh é.
 
-Do bhí áthas mór orm 'nuais a chonnac go rabhas 
+Do bhí áthas mór orm 'nuais a chonnac go rabhas
 sgartha leis.
 
 Do imthigheas chun an tighe mar a raibh an
