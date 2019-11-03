@@ -11,18 +11,20 @@ agus in Imleabhar IV, *Árainn na Naomh*.
 
 ## An Fear Eagair
 
-Ba é Eoghain Ó Gramhnaigh an fear eagarthóir san am, agus
-ba é a scríobh na hailt faoin teideal Árainn na Naomh. Ainm
+Ba é *Eoghain Ó Gramhnaigh* an fear eagair san am, agus
+ba é a scríobh na hailt faoin teideal *Árainn na Naomh*. Ainm
 cleite atá tugtha san irisleabhar don té a bhailigh an scéal
-seo, Clann Chonchobhair. Bheifí ag dréim b'fhéidir le níos
-mó ná duine amháin a bheith taobh thiar dá leithéid de ainm,
-ach is é an chéad phearsa den bhriathar a úsáidtear san
-pharagraf bheag Béarla a tchítear go díreach roimh thús an
-scéil san Irisleabhar. Ó tharla an míniú beag Béarla agus an
-chéad chuid den scéal a bheith mar thús leis an Imleabhar ar
-fad, níor amaideach a dhéanamh amach gurb ionann Clann
-Chonchobhair agus an tAthair Eoghain, ach níorbh fhurasta
-sin a chruthú.
+seo, *Clann Chonchobhair*.
+
+Bheifí ag dréim b'fhéidir le níos mó ná duine amháin a
+bheith taobh thiar dá leithéid de ainm, ach is é an chéad
+phearsa den bhriathar a úsáidtear san pharagraf bheag Béarla
+a cuireadh go díreach roimh thús an scéil san Irisleabhar.
+
+Ó tharla an míniú beag Béarla agus an chéad chuid den scéal
+a bheith mar thús leis an Imleabhar ar fad, níor amaideach
+a dhéanamh amach gurb ionann *Clann Chonchobhair* agus an
+tAthair Eoghain, ach níorbh fhurasta sin a chruthú.
 
 --------------
 
