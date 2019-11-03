@@ -1,14 +1,13 @@
-[Siar](/SC1/scl-1.html)| [Baile](/index.html) | [Scéalta](/liosta.xml)
+[Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml)
 ----
-# Scéal Sheáin Mic Bradáin
+# Scéal Sheáin Mic Bradáin - Tráchtaireacht
 ![alt text](/pic/iascaire.jpg "An Scéal")
 
 Fuarthas an scéal seo in Inis Meáin. Is dóighe,
 go gcuala na baill as foireann an Irisleabhair
-é le linn dó a bheith ar cuairt san oileán, cuairt
-a bhfuil a cuntas ar fáil sna hailt Árainn na Naomh,
-san imleabhar seo, III, agus san imleabhar ina dhiaidh,
-Irisleabhar na Gaeilge, imleabhar IV.
+é le linn dóibh a bheith ar cuairt san oileán. Tá
+cuntas ar an chuairt sin san imleabhar seo, III,
+agus in Imleabhar IV, *Árainn na Naomh*.
 
 ## An Fear Eagair
 
