@@ -7,12 +7,12 @@ Fuarthas an scéal seo in Inis Meáin. Is dóighe,
 go gcuala na baill as foireann an Irisleabhair
 é le linn dóibh a bheith ar cuairt san oileán. Tá
 cuntas ar an chuairt sin san imleabhar seo, III,
-agus in Imleabhar IV, *Árainn na Naomh*.
+agus in Imleabhar IV, *Ára na Naomh*.
 
 ## An Fear Eagair
 
 Ba é *Eoghain Ó Gramhnaigh* an fear eagair san am, agus
-ba é a scríobh na hailt faoin teideal *Árainn na Naomh*. Ainm
+ba é a scríobh na hailt faoin teideal *Ára na Naomh*. Ainm
 cleite atá tugtha san irisleabhar don té a bhailigh an scéal
 seo, *Clann Chonchobhair*.  Bheifí ag dréim b'fhéidir le níos
 mó ná duine amháin a bheith taobh thiar dá leithéid de ainm,
