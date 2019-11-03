@@ -2,9 +2,11 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output method="html"/>
 <xsl:template match="/">
-  <html>
+ <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
+
+<link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
+
  </head>
 <body>
 <nav>
