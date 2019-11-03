@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="daoine.xsl"?>
 <cnuas>
 <scl id="1">
-<ainm>Seághan Pléimion</ainm>
+<ainm>Seán Pléimeann</ainm>
 <iris>Iris V-i</iris>
 <nota>An Chéad Eagorthóir- Scríbhneoir</nota>
-<LINK VALUE="/daoine/s_pleimion.html">Pléimion</LINK>
+<LINK VALUE="/daoine/s_pleimion.html">S. Pléimeann</LINK>
 </scl>
 <scl id="2">
 <ainm>Eoin Ó Cearbhaill</ainm>

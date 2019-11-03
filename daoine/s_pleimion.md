@@ -1,4 +1,4 @@
-[Siar](daoine.xml) | [Baile](/index.html)
+[Siar](/daoine.xml) | [Baile](/index.html)
 ------------------
 # Pléimeann Seán - 1814-96
 
