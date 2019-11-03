@@ -17,7 +17,7 @@
 <table border="1">
 
   <tr >
-    <th>ID</th>
+    <th></th>
     <th>Ainm</th>
     <th>Ceantar</th>
     <th>Nasc</th>
