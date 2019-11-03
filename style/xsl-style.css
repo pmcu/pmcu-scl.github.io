@@ -1,4 +1,5 @@
-      body {
+ body {
+	 width: 60%;
           margin: 10%;
           background-image:url("/pic/old_moon.png");
       }
