@@ -7,6 +7,10 @@
 	<link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
  </head>
 <body>
+<nav>
+<a href="index.html"> Baile </a>
+<hr />
+</nav>
   <table border="1">
     <tr>
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
