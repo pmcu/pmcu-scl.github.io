@@ -10,7 +10,8 @@
  </head>
 <body>
 <nav>
-<a href="index.html"> Baile </a>
+<a href="index.html"> Baile </a> | 
+<a href="/daoine/foirnIG.html">Cuid den Fhoireann</a>
 <hr />
 </nav>
   <table border="1">
