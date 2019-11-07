@@ -1,6 +1,8 @@
 ##  Cuid de Fhoireann Irisleabhar na Gaeilge
-[Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml)
+[Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml) | [daoine](/daoine.xml)
+
 ------
+
 ![alt text](/pic/foirn-IG.jpg)
 
 ### Conradh na Gaeilge 1987
