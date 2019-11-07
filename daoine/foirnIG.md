@@ -1,21 +1,99 @@
-##  Cuid de Fhoireann Irisleabhar na Gaeilge
+# Foireann Ghnó Chonradh na Gaeilge 1897
 [Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml) | [daoine](/daoine.xml)
 
 ------
 
 ![alt text](/pic/foirn-IG.jpg)
 
-### Conradh na Gaeilge 1987
+## Obair na hAthbheochana san 19ú Chéad
 
-Bhí dlúthcheangal idir Aontacht na Gaeilge agus Conradh na Gaeilge, agus idir an dá fhoilseachán a chuirtí i gcló de bharr a gcuid oibre. Eoin Mac Néill, Seosamh Laoide, agus Tadhg Ó Donnchadha, ba scríbhneoirí rialta iad don dá iris, *Irisleabhar na Gaeilge*, agus *An Claidheamh Solais*. Agus as an triúr sin, chaith beirt acu seal mar eagarthóir ar an Irisleabhar, is iad sin Seosamh Laoide agus Eoin Mac Néill; agus ba é Eoin Mac Néill an chéad eagarthóir ar an *Chlaidheamh Solais*.
+Taobh istigh de thréimhse bheag de scór bliain, ó 1880 - 1900, rinneadh obair ábhalmhór
+ar son an Ghaeilge a bhuanú agus a athbheochan. An fonn a bhí ann tarrtháil a thabhairt
+ar an Ghaeilge agus í a athláidriú, d'éirigh sé feiceálach fríd na heagraíochtaí
+Gaeilge a bunaíodh agus a gcuid oibre. An obair seo ar fad, bhí an oiread sin
+dí ar siúl, agus nach furasta a cúrsa a leanstan. Níor fhás aon oíche an feiniméan
+seo, ach is léir gur cuireadh dlús suntasach leis an ghluaiseacht sa tír a bhéarfadh
+a ceart ar ais don teanga dhúchais.
 
-### Bailiú scéalta
-Taobh thiar de shaothar scríofa shuimiúil chumasach, ní annamh réamhobair agus bunobair mar dhúshraith agus mar thaca dó ann. Is tearc scríbhneoir a bhfuil a cheann agus a chroí chomh ramhar sin le smaointe, le heolas, agus mothúcháin, agus nach gá ach peann luaidhe a dhingeadh ina ghlaic agus pár a bhualadh roimhe ar chlár adhmaid, le go bhfaightear ábhar scríofa uaidh a thuilfeadh aird suim agus léamh le fonn. Ní ribín réidh ar bith é, an réamhobair a theastaíonn: glacann a leithéidí seo de ghléasanna a bheith ina bhosca ag an té a scríofadh mar ba cheart:-
+Tháinig cuid mhór de fhuinneamh na gluaiseachta ó fhuinneamh na mball sna
+heagraíochtaí úra. Níor leor leo siúd, a thuilleadh, caomhnú láimhscríbhinní agus
+seanleabhar, de gheall ar ábhar taighde a sholáthar don ghramadóir, don tsaoi
+ársaíochta, agus don aos ardléinn amháin: ní shásódh rud ar bith iad ach an
+teanga a chur in áit lárnach i ngach aon ghné den tsaol reatha agus den tsaol
+a bhí le theacht. Ba theanga intleachta, shóisialta, ealaíne, eolaíochta í feasta.
+Níor bheag sin agus í i ndiaidh a bheith faoi chois le trí chéad bliain ag
+impireacht a bhí suite de ón tús nach mairfeadh sí, agus a d'úsáid gach gléas
+dlí, gléas eacnamaíochta agus gléas oideachais lena bású a chinntiú.  Tá achoimre
+mhaith in *Traidisiún Liteartha na nGael* ar an obair seo.
 
-- grinnéisteacht agus dúil san fhoghlaim
-- cleachtadh agus féincheartú
-- ciall do struchtúr agus do fhorbairt na teangan
-- ciall do dhóigheanna a fhágann chruinneas ghontacht agus slacht ar shaothar
-- eolas agus meas ar a dtáinig roimhe de shaothair thar thréimhsí fada de bhlianta nó de na céadta bliain.
+> Díspeagadh agus díothú teanga na gciníocha cloíte, ba chuid de pholasaí na
+n-impireachtaí riamh. 'D'fhéach an chathair impiriúil ní amháin lena cuing ach lena
+teanga chomh maith a chur i bhfeidhm ar na ciníocha cloíte mar cheangal síochána.'
+a dúirt Naomh Agaistín. Míle bliain níos déanaí mhol an file Sasanach Spenser an
+polasaí céanna in Éirinn, 'for it hath bene ever the use of the conqueror to destroy
+the language of the conquered and to force him by all means to learne his'. Agus
+míníonn sé go soiléir fáth an mholta: 'the speache being Irishe the harte must
+nedes be Irishe for out of the abundance of the harte the tongue speakethe'.
+Faoi anáil an pholasaí chéanna, sa bhliain 1536, scríobh an tOchtú hAnraí mar a
+leanas chuig búirghéisigh na Gaillimhe: 'that every inhabitant within the saide
+towne idevor them selfe to spek ENglushe, and to use them selffe after the Englyshe
+Facion; and especyally that you, and every of you, do put forth your childe to
+scole, to lerne to speke Englishe.'
 
-I gcás teangan a bhí i ndiaidh a bheith faoi chois agus faoi dhrochmheas ar feadh na gcéadta, le go mbeadh cuid de na rudaí thuasluaite ag an té a rachadh á saothrú, ghlacfadh sé siúl ar a son. Shiúil na fir cruinn sa phictiúr seo.
+> Chloígh údaráis Shasana go dlúth leis an bpolasaí seo i gcaitheamh na n-aoiseanna
+, agus lean siad orthu ag brú an Bhéarla ar mhuintir na hÉireann, á léiriú gur aithin
+siad gurb í an Ghaeilge an príomhbhac lena n-iarrachtaí chun an tír a smachtú agus
+a shacsanú.
+
+Nach íorónta mar a tharla,  an dream beag a raibh sé de cheart agus d'acmhainn
+acu léann breá gallda a fháil dóibh féin, gur ina measc siúd a mhúsclódh suim
+sa *léann eile*, an léann a raibh sé mar chuspóir ag a léann féin é a
+dhíothú. Ach b'fhéidir gur fhorbairt loighiciúil go leor í seo, agus nach gá
+fonn dá laghad a bheith ann leas na Gaeilge a dhéanamh. An té a mbeadh luth na
+hintleachta géire aige, thiocfadh leis tarraingt le tairbhe, b'fhéidir,
+as an tsaothar cháiliúil *Orientalism* le *Edward Said* de gheall ar an íoróin
+seo a chíoradh mar ba chóir. Ní dhéantar anseo ach an aithint a chur in iúl nach
+ainmhí soineanta neamhúrcóideach go hiomlán *an léann* i dtír ar bith, agus go
+háirithe, i dtír atá ina cuid d'impireacht, agus d'impireacht a d'fhás go mór le
+linn na naoú haoise déag, agus a raibh ceannairí dá cuid ar a ndícheall, a n-eolas
+*eimpíreach* ar *nádúr* an fhodhuine dhúchasaigh, sin a bheartú mar ghléas
+smachtaithe. Bíodh sin mar atá, ar a laghad, cuireadh deireadh leis an tost arb
+éigean don Ghaeilge fanacht ann ar feadh na gcéadta, ó thaobh cead éisteachta
+a bheith aici i measc an aosa léinn, nach raibh faoi chosc ar bith stáit.
+
+### Lucht Léinn
+Bhí suim á cur i saíocht na Gaeilge ag lucht léinn ó lár an 18ú céad i leith.
+Bunaíodh cumainn bheaga a d'aithin a luach mar shaíocht agus a thoisigh a dhéanamh
+iarrachta an léann Gaeilge a chur chun cinn. Gheibhtear eolas maith ar fhás na
+gcumann seo in *Traidisiún Liteartha na nGael*.
+
+
+> De thoradh na suime sa Ghaeilge a músclaíodh i measc lucht léinn agus litríochta
+, bunaíodh a lán cumann nua san Ardchathair a raibh sé de chuspóir acu gnéithe
+éagsúla de sheansaíocht na hÉireann a chaomhnú agus a chothú. I 1772 cheap an
+Dublin Society coiste le taighde a dhéanamh ar ársaíocht na nGael.  Níor mhair an
+coiste seo i bhfad, ach thug cuid de na baill cabhair do Vallancey chun *Collectanea*
+a fhoisiú.  Sa bhliain 1782 bhunaigh dream daine cumann beag i mBaile Átha Cliath.
+Scoláirí ó Choláiste na Trionóide a bhí i bhformhór na mball agus chuir siad rompu
+scoláireacht na Gaeilge a chur chun cinn. As a gcumann beag seo d'fhás *Acadamh
+Ríoga na hÉireann* i 1785. *Traidisiún Liteartha na nGael* L 318.
+
+Is féidir, mar sin tús ghníomhaíochtaí an Acadaimh a rianú siar a fhad leis an
+bhliain 1782, céad bliain sular cuireadh an chéad uimhir de *Irisleabhar na Gaeilge*
+ar fáil i mí na Samhna 1882. Ba mhór a rinne an tAcadamh i réimse staidéar na Ghaeilge
+le linn na 19ú haoise ar fad. An dá scoláire Gaeilge ba mhó de chuid na linne,
+Seán Ó Donnabháin agus Eoghan Ó Comhraí, is de bharr thacaíocht an Acadaimh, a
+bhí siad ann a chuid oibre a dhéanamh.  An chéad eagarthóir de Irisleabhar na
+Gaeilge, Seán Pléimeann, bhí post aige san Acadamh ag obair ar lámhscíbhinní, agus
+i ndiaidh dó éirí as an phost sin, bhí sé beo ar phinsean a chuir an tUrramach
+Maxwell Close ar fáil dó as a phóca féin.  Bailíodh lámhscríbhinní don Acadamh le
+linn an chéid ar fad agus ina dhiaidh sin, go dtí go raibh an bailiúchán ba mhó
+sa domhan ann.
+
+Luaitear clubanna agus eagraíochtaí eile a chuir suim sa Ghaeilge in *Traidisiún
+Liteartha na nGael*. Bunaíodh *The Gaeilc Society of Dublin* sa bhliain 1807. San
+eagraíocht seo, bhí cainteoirí dúchais Gaeilge a fuair oideachas trí mheán na
+Gaeilge, an chéad rúnaí Tadhg Ó Flannagáin as Contae an Chláir, agus Pádraig Ó
+Loingsigh ón chontae chéanna. D'fhoilsigh Pádraig 'cuid mhór saothar ar  ábhalmhór
+léannta i mBéarla agus roinnt i nGaeilge.' Is léir ón fhaisnéis seo, go raibh
+foinsí fiúntacha léinn Ghaeile ar fáil i gContae an Chláir.
