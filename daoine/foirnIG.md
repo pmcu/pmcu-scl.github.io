@@ -36,7 +36,7 @@ míníonn sé go soiléir fáth an mholta: 'the speache being Irishe the harte m
 nedes be Irishe for out of the abundance of the harte the tongue speakethe'.
 Faoi anáil an pholasaí chéanna, sa bhliain 1536, scríobh an tOchtú hAnraí mar a
 leanas chuig búirghéisigh na Gaillimhe: 'that every inhabitant within the saide
-towne idevor them selfe to spek ENglushe, and to use them selffe after the Englyshe
+towne indevor them selfe to spek Englishe, and to use them selffe after the Englyshe
 Facion; and especyally that you, and every of you, do put forth your childe to
 scole, to lerne to speke Englishe.'
 
@@ -45,21 +45,6 @@ scole, to lerne to speke Englishe.'
 siad gurb í an Ghaeilge an príomhbhac lena n-iarrachtaí chun an tír a smachtú agus
 a shacsanú.
 
-Nach íorónta mar a tharla,  an dream beag a raibh sé de cheart agus d'acmhainn
-acu léann breá gallda a fháil dóibh féin, gur ina measc siúd a mhúsclódh suim
-sa *léann eile*, an léann a raibh sé mar chuspóir ag a léann féin é a
-dhíothú. Ach b'fhéidir gur fhorbairt loighiciúil go leor í seo, agus nach gá
-fonn dá laghad a bheith ann leas na Gaeilge a dhéanamh. An té a mbeadh luth na
-hintleachta géire aige, thiocfadh leis tarraingt le tairbhe, b'fhéidir,
-as an tsaothar cháiliúil *Orientalism* le *Edward Said* de gheall ar an íoróin
-seo a chíoradh mar ba chóir. Ní dhéantar anseo ach an aithint a chur in iúl nach
-ainmhí soineanta neamhúrcóideach go hiomlán *an léann* i dtír ar bith, agus go
-háirithe, i dtír atá ina cuid d'impireacht, agus d'impireacht a d'fhás go mór le
-linn na naoú haoise déag, agus a raibh ceannairí dá cuid ar a ndícheall, a n-eolas
-*eimpíreach* ar *nádúr* an fhodhuine dhúchasaigh, sin a bheartú mar ghléas
-smachtaithe. Bíodh sin mar atá, ar a laghad, cuireadh deireadh leis an tost arb
-éigean don Ghaeilge fanacht ann ar feadh na gcéadta, ó thaobh cead éisteachta
-a bheith aici i measc an aosa léinn, nach raibh faoi chosc ar bith stáit.
 
 ### Lucht Léinn
 Bhí suim á cur i saíocht na Gaeilge ag lucht léinn ó lár an 18ú céad i leith.
