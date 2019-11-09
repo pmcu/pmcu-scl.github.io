@@ -10,7 +10,7 @@
  </head>
 <body>
 <nav>
-<a href="index.html"> Baile </a> | 
+<a href="index.html"> Baile </a> |
 <a href="/daoine/foirnIG.html">Cuid den Fhoireann</a>
 <hr />
 </nav>
@@ -19,7 +19,7 @@
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
     </tr>
     <ht />
-<tr><td id="tdl"><h2>Daoine as Irisleabhar na Gaeilge</h2></td></tr>
+<tr><td id="tdl"><h2>Na Fir Ghnímh</h2></td></tr>
 </table>
 <table border="1">
 
