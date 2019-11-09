@@ -11,7 +11,7 @@
 <body>
 <nav>
 <a href="index.html"> Baile </a> |
-<a href="/daoine/foirnIG.html">Cuid den Fhoireann</a>
+<a href="/daoine/foirnIG.html">Na Fir Ghnímh</a>
 <hr />
 </nav>
   <table border="1">
@@ -19,7 +19,7 @@
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
     </tr>
     <ht />
-<tr><td id="tdl"><h2>Na Fir Ghnímh</h2></td></tr>
+<tr><td id="tdl"><h2>Scríbhneoirí Irisleabhar na Gaeilge</h2></td></tr>
 </table>
 <table border="1">
 
