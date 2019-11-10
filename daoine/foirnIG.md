@@ -123,7 +123,7 @@ Eoin Ó Nualláin
 
 D'aithin an cumann seo namhaid amháin gasta go leor, an t-imreoir sleamhain glic úd a raibh trácht againn roimhe air, agus d'éirigh leo i 1978, tabhairt ar Bhord an Oideachais Náisiúnta agus ar Bhord an Mheánoideachais an Ghaeilge a chur ar chlár na scoileanna.  Nuair a d'éirigh easaontas i measc bhall an chumainn agus nuair a rinneadh scoilt dá bharr, rugadh eagraíocht úr.
 
- ## Aontacht na Gaeilge  
+## Aontacht na Gaeilge  
 Sa bhliain 1880 a tháinig **Aontacht na Gaeilge** ar an tsaol,
 agus cuid de na fir ba mhó gníomh leo mar bhaill as *The Society for the Preservation  
 of the Irish Language*. Le tús a chur le hobair na cúise, thug siad faoi ábhar  
