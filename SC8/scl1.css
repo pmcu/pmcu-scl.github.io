@@ -1,22 +1,30 @@
+
 body {
     margin: 5%;
-    background-image: url("paper.png");
+      background-image: url("/pic/old_moon.png");
 }
-img{
+td {
+vertical-align: top;
 
-margin-top: 30px;
-margin-right: 10px;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
 p{
 text-align: justify;
 font-family: Verdana;
 font-size: 1em;
 padding:10px;
+
 }
-h2{
-font-family: "Baskerville, serif;
-font-size:18px;
-text-align: center;
+h1,h2,h3,h4{
+font-family: Baskerville, serif;
+text-align: left;
 color: #001a00;
 }
 
@@ -30,7 +38,8 @@ overflow:scroll;
 
 
 div{
-width:80%;
+width:70%;
+
 }
 
 a{
