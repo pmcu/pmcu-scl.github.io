@@ -54,39 +54,40 @@ Luaitear clubanna agus eagraíochtaí eile a chuir suim sa Ghaeilge in *Traidisi
 Liosta le háireamh ar éirigh de chumainn, de eagraíochtaí, agus de mhionghluaisteachtaí fiú le linn an chéad leath den 19ú haoise, agus ba éachtach a ndearna siad de sharobair thairbheach luachmhar ar lámhscríbhinní agus ar bhailiú seanléinn scríofa. Is cosúil, áfach, diomaite de chorrscoláire, nár léir dóibh suíomh an mhórsaibhris, os a gcomhair amach.
 
 ## Na Daoine féin
-Dar fia, agus dar fiacha dubha, ar foluain, ar eiteoig, in airde os cionn an mhachaire, cad é a leithéid de fhómhar ollfhairsing a bhí rompú, ach na gloiní cearta a bheith ar dhroim a ngaosáin ag na buanaithe, agus líon peacach de cheithre mhilliún os a gcomhair, agus gach mac is iníon acu lán líonta go scoig de mhacteanga na teangan a chluintí  in aimsir *Mhacghníomhartha Chon Chulainn* féin? Agus cadé a leithéid de iothlainn a bheadh againne le siúl inti, ina ndiaidh? Ach is maith iad spéaclaí an imreora a amharcann siar ar na cluichí a imríodh agus a cailleadh.
+Dar fia, agus dar fiacha dubha, ar foluain, ar eiteoig, in airde os cionn an mhachaire, cad é a leithéid de fhómhar ollfhairsing a bhí rompú, ach na gloiní cearta a bheith ar dhroim a ngaosáin ag na buanaithe - fómhar ina raibh líon peacach de cheithre mhilliún os a gcomhair, agus gach mac is iníon acu lán líonta go scoig de mhacteanga na teangan a chluintí  in aimsir *Mhacghníomhartha Chon Chulainn* féin? Agus cadé a leithéid de iothlainn a bheadh againne le siúl inti, ina ndiaidh? Ach is maith iad spéaclaí an imreora a amharcann siar ar na cluichí a imríodh agus a cailleadh.
 Mar sin féin, a leithéid de dhiomailte agus de chur amódh acmhainne anama daoine!
 
 ### Fómhar gan Bhaint
 Cuirimis i gcás, áfach, gur tugadh faoi bhaint an fhómhair údaí, agus go raibh gach cosúlacht ann, go mbeadh an toradh chomh breá agus a tuaradh. Cuirtear i gcás, fosta, gur mór é éad an tSasanaigh dhalba a rá is de go mbeadh léann breá á bhaint as an dream a chuir siad faoi smacht i bhfad ó shin, agus a rá is de, fosta, an polasaí breá údaí a bhí acu le deireadh a chur leis an teanga a d'iompair an léann do na fodhaoine seo, go raibh teipthe ar a éifeacht i ndeireadh na dála.
 
-Sin uilig curtha i gcás, ní mhairfeadh an taitneamh ón toradh ar an lucht tarrthála nó an bhuairt ar an namhaid éadmhar, mar an Dia a choinnigh súil ar leas an tSasanaigh, bhí de chumas ann gach béal den cheithre mhilliún a chur ina thost i ngiorracht aimsire, rud a rinneadh ar chuid mhór acu, idir 1846-7. 729,000, an figiúr a luaitear in *Traidisiún Liteartha na nGael*. De dhream na mbeo i ndiaidh obair an Dé seo, d'imigh roinnt milliún acu sin a chuartú bídh agus dín i dtíortha eile. Faoi mar a tharla, mar sin, ní bhfuarthas mórán den chaint, de bharr a bhfuarthas den ocras agus den tost a leanas an t-ocras agus an imeacht as thar sáile anonn: ba é sin a bhfuarthas de fhómhar faoi dheireadh.   
+Sin uilig curtha i gcás, ní mhairfeadh an taitneamh ón toradh ar an lucht tarrthála nó an bhuairt ar an namhaid éadmhar, mar an Dia a choinnigh súil ar leas an tSasanaigh, bhí de chumas ann gach béal den cheithre mhilliún a chur ina thost i ngiorracht aimsire, rud a rinneadh ar chuid mhór acu, idir 1846-7. 729,000, an figiúr a luaitear in *Traidisiún Liteartha na nGael*. De dhream na mbeo i ndiaidh obair an Dé seo, d'imigh roinnt milliún acu sin a chuartú bídh agus dín i dtíortha eile. Faoi mar a tharla, mar sin, ní bhfuarthas mórán den chaint, de bharr a bhfuarthas den ocras agus den tost a leanas an t-ocras agus an imeacht as thar sáile anonn: ba
+bheag, mar sin, a bhfuarthas den fhómhar faoi dheireadh.
 
 ### Imreoir úr
 
 Déanaimis cur i gcás eile. Abraimis gur aoibh bhreá a bhí ar Dhia an tSasanaigh i lár an chéid atáthar a phlé, gurbh amhlaidh a d'éirigh báidh ann leis na Gaeil agus le lucht léinn araon, gur fhág an aoibh seo gach tuathánach subhach sách ina bhothán agus grian chineálta ag soilsiú léi anuas ar hataí tuí na mbailitheoirí agus iad ag baint tairbhe agus taitnimh den scoith óna gcuid oibre ó bhothán go bothán i measc na ndaoine. Fiú agus seo amhlaidh, gan fonn scriosta Gael a theacht riamh ar Dhia impireacht an tSasanaigh, ní raibh sí ina mhuinín, mar, ón bhliain 1931 i leith, bhí an bríste gairid ar imreoir eile aici, agus é curtha ar pháirc ar son a seanpholasaí dhílis i dtreo dhíothaithe teangan an fhodhuine dhúchasaigh. Ón chéad lá ar cuireadh an t-imreoir úr seo chun páirce, ba mhaith an tuar go mbeadh an bháire seo leo, mar
 Shasanaigh shibhialta, agus ba ghairid go mbeadh sé leo, i ndiaidh a ndíchill i gceann iarrachtaí lena fháil, ar feadh trí chéad bliain: bhéarfaí an mhalairt teangan i gcrích ar ball.
 
-Ní mór, anois, cur síos achomair a dhéanamh air mar imreoir.  Seift dheas, ghlic, shlítheánta, shimplí a bhí ann: cineál a dhéanamh ar an fhodhuine, rud luachmhar a bhronnadh air, léann an tSasanaigh féin a sholáthar dó, léann a mblaisfeadh an fodhuine a mhaitheas agus a bhuntáistí móra ón chéad tráth, mar b'ionann go pointe an béile agus an modh cothaithe, agus dá mba ghallda féin aige ar tús an spúnóg, cá bhfios nach fada go n-éireodh cumas ann féin í a bheartú mar ba chóir: spúnóg an Bhéarla mar ghléas bronnta léinn atáthar a mhaíomh, ar ndóighe, ábhar an léinn agus a mhodh aistrithe in aon bholgam druidte amháin.
+Ní mór, anois, cur síos achomair a dhéanamh air mar imreoir.  Seift dheas, ghlic, shlítheánta, shimplí a bhí ann: cineál a dhéanamh ar an fhodhuine, rud luachmhar a bhronnadh air, léann an tSasanaigh féin a sholáthar dó, léann a mblaisfeadh an fodhuine a mhaitheas agus a bhuntáistí móra ón chéad tráth, mar b'ionann go pointe an béile agus an modh cothaithe, agus dá mba ghallda féin aige ar tús an spúnóg, cá bhfios nach an-fhada go n-éireodh cumas ann féin í a bheartú mar ba chóir agus nach mbeadh gáirí á mbaint san idirlinn: spúnóg an Bhéarla mar ghléas bronnta léinn atáthar a mhaíomh, ar ndóighe, ábhar an léinn agus a mhodh aistrithe in aon bholgam druidte amháin.
 
 B'éigean a bheith cúramach faoin ábhar sa Bhéarla féin, ar ndóighe.
 
 > Sa bhliain 1801, as daonnra de chúig mhilliún áirítear ceithre mhilliún in ann an Ghaeilge a labhairt, agus dealraíonnn gur dócha go raibh níos mó daoine ag labhairt na Gaeilge thart faoin bhliain 1831 ná mar a bhí riamh roimhe sin.  Idir  sin agus deireadh na haoise, áfach, tháinig laghdú ábhalmhór ar líon lucht labhartha na teanga i dtreo nach raibh ach beagáinín os cionn sé chéad daichead míle Gaeilgeoir ann san bhliain 1901. Dhá rud go speisialta ba chúis leis an laghdú tubáisteach seo.  An chéad rud ab ea Bunú Bhord an Oideachais Náisiúnta sa bhliain 1831.  Bhí dearcadh an Bhoird chomh frithnáisiúnta sin nár ceadaíodh na línte seo a leanas le Walter Scott a fhoilsiú sna leabhair scoile:
-	>> Breathes there the man with soul so dead,  
-	who never to himself hath said,  
+	>> Breathes there the man with soul so dead,
+	who never to himself hath said,
 	this is my own, my native land.
 >
 > Cuireadh isteach na línte a chum an tArdeabag Whately d'aon ghnó do na leabhair:
->> I thank the goodness and the grace,  
-which on my birth have smiled,  
-and made me in these Christian days,  
-a happy English Child.  
+>> I thank the goodness and the grace,
+which on my birth have smiled,
+and made me in these Christian days,
+a happy English Child.
 
-> Albanaigh agus Sasanaigh a d'ullmhaigh na leabhair do na scoileanna seo agus ní raibh tagairt dá laghad iontu do stair nó do shaíocht na hÉireann. Mar bharr ar an éagóir, bhí cosc ar labhairt agus ar mhúineadh na Gaeilge féin.   
+> Albanaigh agus Sasanaigh a d'ullmhaigh na leabhair do na scoileanna seo agus ní raibh tagairt dá laghad iontu do stair nó do shaíocht na hÉireann. Mar bharr ar an éagóir, bhí cosc ar labhairt agus ar mhúineadh na Gaeilge féin.
 
->  Is léir gur éirigh leis na Scoileanna Náisiúnta an Ghaeilge a chur ar gcúl agus  
-an Béarla a chur á labhairt go forleathan ar fud na tíre. Is cuí a admháil, ámh,  
-go bhfuair an Bord tacaíocht thoilteanach óna lán de mhuintir na hÉireann féin -  
+>  Is léir gur éirigh leis na Scoileanna Náisiúnta an Ghaeilge a chur ar gcúl agus
+an Béarla a chur á labhairt go forleathan ar fud na tíre. Is cuí a admháil, ámh,
+go bhfuair an Bord tacaíocht thoilteanach óna lán de mhuintir na hÉireann féin -
 ó chinnirí polaitíochta agus ó fhormhór na cléire. *Traidisiún Liteartha na nGael*  L 311-3
 
 ## Toradh na Dea-oibre - idir Ocras agus Léann na hImpireachta
@@ -106,32 +107,32 @@ Fiú amháin, faoin bhliain 1971, ba bheag amhras nach báire buailte é cúis n
 
 Chan fir amháin a dtángthas orthu le troid ar son na cúise, ar ndóighe, ach is orthu is mó a bhfuil eolas faoina gcuid gníomhartha. Is cinnte go dtáinig fonn mór i ndornán daoine gan glacadh go ciúin le bás na teangan, agus tabhairt faoina tarrtháil le fuinneamh.
 
-#### The Society for the Preservation of the Irish language  
-Teideal lom é seo do eagraíocht agus a príomhchuspóir le feiceáil go soiléir ann.  
-Seo cuid de na baill:-  
+#### The Society for the Preservation of the Irish language
+Teideal lom é seo do eagraíocht agus a príomhchuspóir le feiceáil go soiléir ann.
+Seo cuid de na baill:-
 Dubhghlas de hÍde,
-Daithí Coimín,  
-Risteard Ó Dubhthaigh,  
-Diarmaid Mac Suibhne  
-Brian Ó Luanaigh,  
-Seosamh Ó Longáin,  
-Tomás Ó Néill Ruiséal,  
-George Sigerson,  
-Maxwell Close,  
-Uileag de Búrca,  
+Daithí Coimín,
+Risteard Ó Dubhthaigh,
+Diarmaid Mac Suibhne
+Brian Ó Luanaigh,
+Seosamh Ó Longáin,
+Tomás Ó Néill Ruiséal,
+George Sigerson,
+Maxwell Close,
+Uileag de Búrca,
 Eoin Ó Nualláin
 
 D'aithin an cumann seo namhaid amháin gasta go leor, an t-imreoir sleamhain glic úd a raibh trácht againn roimhe air, agus d'éirigh leo i 1978, tabhairt ar Bhord an Oideachais Náisiúnta agus ar Bhord an Mheánoideachais an Ghaeilge a chur ar chlár na scoileanna.  Nuair a d'éirigh easaontas i measc bhall an chumainn agus nuair a rinneadh scoilt dá bharr, rugadh eagraíocht úr.
 
-## Aontacht na Gaeilge  
+## Aontacht na Gaeilge
 Sa bhliain 1880 a tháinig **Aontacht na Gaeilge** ar an tsaol,
-agus cuid de na fir ba mhó gníomh leo mar bhaill as *The Society for the Preservation  
-of the Irish Language*. Le tús a chur le hobair na cúise, thug siad faoi ábhar  
-clóbhuailte a sholáthair i nGaeilge: leabhair scoile, agus leabhar urnaithe. Agus    
-chinn siad go mbunódh siad iris úr.  Ní obair í seo a dhéantar gan airgead.  Bhí de  
+agus cuid de na fir ba mhó gníomh leo mar bhaill as *The Society for the Preservation
+of the Irish Language*. Le tús a chur le hobair na cúise, thug siad faoi ábhar
+clóbhuailte a sholáthair i nGaeilge: leabhair scoile, agus leabhar urnaithe. Agus
+chinn siad go mbunódh siad iris úr.  Ní obair í seo a dhéantar gan airgead.  Bhí de
 ádh ar an chúis, fear flaithiúil, a bheith ar an fhód i measc na mball, agus é
-sásta tarraingt as a phóca féin sa dóigh go gcuirfí cuid de scéimeanna an chumainn  
+sásta tarraingt as a phóca féin sa dóigh go gcuirfí cuid de scéimeanna an chumainn
 chun cinn.  Ba é sin an tUrramach Maxwell Close.  Ba é an fear seo fosta a d'fhág £1,000 punt ina thiomna ag Acadamh Ríoga na hÉireann mar chuidiú le foclóir Gaeilge a chur i gcló.
 
-### Irisleabhar na Gaeilge  
+### Irisleabhar na Gaeilge
 D'éirigh le *Aontacht na Gaeilge* an irisleabhar a bhí beartaithe a chur i gcló i mí na Samhna 1882.  'Stair atá sa chuid eile', mar a deir an Béarla.  Tá a fhios againn faoin ábhar a cuireadh i gcló san iris.  Ailt agus aistí léannta, a bhain leis an teanga agus a cúis, amhráin agus filíocht agus ábhar foghlamtha. Bhí an tÁbhar mór ann as seanlitríocht na Gaeilge ann chomh maith, ar ndóighe, ní dhearnadh faillí sa Rúraíocht, nó san Fhiannaíocht, nó sa Ghaeilge Chlasaiceach: Scéalta ón Táin, Scéalta ó Chéitinn, Iomramh nó beirt, dánta ón mheánaois, aislingí agus filíocht nach iad ón 18ú haois. Tugadh faoi dhíospóireacht léannta i ngnoithe gramadaí, focleolaíochta, agus staire.  Cé go raibh Béarla go leor san iris, bhí mórchuid Gaeilge ann, agus ba léir gur aici a bhí tús áite. Tháinig an Ghaeilge ar ais de phreab i saol intleachtach na hÉireann, rinneadh nuatheanga chlóbhuailte sholadach di le haon bhuille amháin. An troid anama a bhí an teanga a dhéanamh, ní dhearnadh faoi cheilt iomlán feasta í.  Agus rud eile de, an iarraidh seo ní dhéanfaí dearmad den dream a thug an teanga leo ó aimsir na Tána, an dream ba lú acmhainn sa tír: éisteofaí leo féin, lena gcuid seanchais ar fad, agus lena gcuid scéalta.
