@@ -4,7 +4,6 @@ body {
     background-image: url("paper.png");
 }
 img{
-float:left;
 margin-top: 30px;
 margin-right: 10px;
 }
