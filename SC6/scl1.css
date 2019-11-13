@@ -1,7 +1,8 @@
 
 body {
     margin: 5%;
-     background-image: url("/pic/old_moon.png");
+    background-image: url("paper.png");
+}
 img{
 
 margin-top: 30px;
@@ -22,7 +23,7 @@ color: #001a00;
 
 #overflow{
 padding:15px;
-width:70%;
+width:80%;
 height:600px;
 border: 1px solid #ccc;
 overflow:scroll;
@@ -30,7 +31,7 @@ overflow:scroll;
 
 
 div{
-width:70%;
+width:80%;
 }
 
 a{
