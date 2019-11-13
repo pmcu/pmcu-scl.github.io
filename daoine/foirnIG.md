@@ -19,7 +19,7 @@ An seomra féin a lonnaíonn siad, is ceann spéiriúil, fairsing, lánlasta é,
 ### Cúlra Garbh
 
 
-Taobh istigh de thréimhse bheag de scór bliain, ó 1880 - 1900, rinneadh obair ábhalmhór ar son an Ghaeilge a bhuanú agus a athbheochan. An fonn a bhí ann tarrtháil a thabhairt ar an Ghaeilge agus í a athláidriú, d'éirigh sé feiceálach fríd na heagraíochtaí Gaeilge a bunaíodh agus a gcuid oibre. An obair seo ar fad, bhí an oiread sin dí ar siúl, agus nach furasta a cúrsa a leanstan. Níor *fhás aon oíche* an feiniméan seo, ach is léir gur cuireadh dlús suntasach leis an ghluaiseacht - an ghluaiseacht a bhéarfadh a ceart ar ais don teanga dhúchais, in aineoinn a raibh ina héadan.
+Taobh istigh de thréimhse bheag de scór bliain, ó 1880 - 1900, rinneadh obair ábhalmhór ar son an Ghaeilge a bhuanú agus a athbheochan. An fonn a bhí ann tarrtháil a thabhairt ar an Ghaeilge agus í a athláidriú, d'éirigh sé feiceálach fríd na heagraíochtaí Gaeilge a bunaíodh agus a gcuid oibre. An obair seo ar fad, bhí an oiread sin dí ar siúl, agus nach furasta a cúrsa a leanstan. Níor *fhás aon oíche* an feiniméan seo, ach is léir, faoi dheireadh an chéid, gur cuireadh dlús suntasach leis an ghluaiseacht - an ghluaiseacht a bhéarfadh a ceart ar ais don teanga dhúchais, in aineoinn a raibh ina héadan.
 
 Tháinig cuid mhór de fhuinneamh na gluaiseachta ó fhuinneamh na mball sna heagraíochtaí úra. Níor leor leo siúd, a thuilleadh, caomhnú láimhscríbhinní agus seanleabhar, de gheall ar ábhar taighde a sholáthar don ghramadóir, don tsaoi ársaíochta, agus don aos ardléinn amháin: ní shásódh rud ar bith iad ach an teanga a chur in áit lárnach i ngach aon ghné den tsaol reatha agus den tsaol a bhí le theacht.
 
