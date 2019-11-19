@@ -41,6 +41,11 @@
 <ceantar>Muineachán</ceantar>
 <LINK VALUE="SC9/cranndonnoige.html">Crann Donóige</LINK>
 </scl>  
+<scl id="9">
+<ainm>Nóra agus na Síógaí</ainm>
+<ceantar>Gaillimh</ceantar>
+<LINK VALUE="SC10/nóra.html">Nóra is Síógaí</LINK>
+</scl>  
 </cnuas>
 
 
