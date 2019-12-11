@@ -40,17 +40,17 @@
 <ainm>Crann Donóige</ainm>
 <ceantar>Muineachán</ceantar>
 <LINK VALUE="SC9/cranndonnoige.html">Crann Donóige</LINK>
-</scl>  
+</scl>
 <scl id="9">
 <ainm>Nóra agus na Síógaí</ainm>
 <ceantar>Gaillimh</ceantar>
 <LINK VALUE="SC10/nora.html">Nóra is Síógaí</LINK>
-</scl>  
+</scl>
+<scl id="10">
+<ainm>Aodh Beag Ó Leorthaí</ainm>
+<ceantar>Muineachán</ceantar>
+<LINK VALUE="SC11/aodh.html">Aodh Beag</LINK>
+</scl>
+
+
 </cnuas>
-
-
-
-
-
-
-
