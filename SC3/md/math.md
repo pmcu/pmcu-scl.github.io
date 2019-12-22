@@ -1,7 +1,7 @@
 [Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml)
 ------------------
 # Scéal - Tráchtaireacht
-![alt text](siog-pic.jpg "An Scéal")
+![alt text](../siog-pic.jpg "An Scéal")
 
 # Imirt na nDaoineadh Maithe, nó Siabhraí, ar Ó Mathghamhna agus ar a Bhuachaill
 

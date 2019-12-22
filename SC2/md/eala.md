@@ -1,7 +1,7 @@
 [Siar](/SC1/scl-1.html) | [Baile](/index.html) | [Scéalta](/liosta.xml)
 ------------------
 # Scéal - Tráchtaireacht
-![alt text](eala1.jpg "An Scéal")
+![alt text](../eala1.jpg "An Scéal")
 
 # Eachtra ar an mBuachaill agus ar na trí hEalaí fá Dhraíocht
 
