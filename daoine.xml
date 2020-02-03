@@ -19,18 +19,6 @@
 <nota>Scríbhneoir - Eagarthóir</nota>
 <LINK VALUE="/daoine/d_coimín">Coimín</LINK>
 </scl>
-<scl id="7">
-<ainm>T. Ruiséal</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">T. Ruiséal</LINK>
-</scl>
-<scl id="8">
-<ainm>T. Ó Flannaoile</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">T. Ó Flannaoile</LINK>
-</scl>
 <scl id="10">
 <ainm>Eoghan Ó Gramhnaigh</ainm>
 <iris>Iris V-ii</iris>
