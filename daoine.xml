@@ -7,35 +7,17 @@
 <nota>An Chéad Eagorthóir- Scríbhneoir</nota>
 <LINK VALUE="/daoine/s_pleimion.html">S. Pléimeann</LINK>
 </scl>
-<scl id="2">
-<ainm>Seán Ó Cearbhaill</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="/daoine/s_ocearbhaill.html">S. Ó Cearbhaill</LINK>
-</scl>
 <scl id="3">
 <ainm>Dúghlas De hÍde</ainm>
 <iris>Iris Vi</iris>
 <nota>Scíbhneoir</nota>
-<LINK VALUE="#">D. De hÍde</LINK>
+<LINK VALUE="/daoine/d_dehide.html">D. De hÍde</LINK>
 </scl>
 <scl id="4">
 <ainm>Daithí Coimín</ainm>
 <iris>Iris V-i</iris>
 <nota>Scríbhneoir - Eagarthóir</nota>
-<LINK VALUE="#">Coimín</LINK>
-</scl>
-<scl id="5">
-<ainm>Uileog De Búrca</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">U. De Búrca</LINK>
-</scl>
-<scl id="6">
-<ainm>Domhnall Ó Loingsigh</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">D. Ó Loingsigh</LINK>
+<LINK VALUE="/daoine/d_coimín">Coimín</LINK>
 </scl>
 <scl id="7">
 <ainm>T. Ruiséal</ainm>
@@ -49,47 +31,17 @@
 <nota>Scríbhneoir</nota>
 <LINK VALUE="#">T. Ó Flannaoile</LINK>
 </scl>
-<scl id="9">
-<ainm>Pádraig Stúndún</ainm>
-<iris>Iris V-i</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">P. Stúdún</LINK>
-</scl>
 <scl id="10">
 <ainm>Eoghan Ó Gramhnaigh</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
-<LINK VALUE="#">E. Ó Gramhnaigh</LINK>
-</scl>
-<scl id="11">
-<ainm>Pádraig Ó Briain</ainm>
-<iris>Iris V-ii</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">P. Ó Briain</LINK>
-</scl>
-<scl id="12">
-<ainm>Tomás Ó Móráin</ainm>
-<iris>Iris V-ii</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">T. Ó Móráin</LINK>
-</scl>
-<scl id="13">
-<ainm>Máire Ní Bhrighde</ainm>
-<iris>Iris V-ii</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">M. Ní Bhrighde</LINK>
+<LINK VALUE="/daoine/e_ogramhnaigh.html">E. Ó Gramhnaigh</LINK>
 </scl>
 <scl id="14">
 <ainm>Seosamh Laoide</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
 <LINK VALUE="#">S. Laoide</LINK>
-</scl>
-<scl id="15">
-<ainm>Pádraig Ó Laoghaire</ainm>
-<iris>Iris V-ii</iris>
-<nota>Scríbhneoir</nota>
-<LINK VALUE="#">P. Ó Laoghaire</LINK>
 </scl>
 <scl id="16">
 <ainm>Seán Mac an Bháird</ainm>
