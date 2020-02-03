@@ -37,16 +37,5 @@
 <nota>Scríbhneoir</nota>
 <LINK VALUE="#">S. Mac an Bháird</LINK>
 </scl>
-<scl id="17">
-<ainm>Peadar Ó Laoghaire</ainm>
-<iris>Iris V-iii</iris>
-<nota>Scríbheoir - Úrscéalaí</nota>
-<LINK VALUE="#">P. Ó Laoghaire</LINK>
-</scl>
-<scl id="18">
-<ainm>Eoghan Mac Néill</ainm>
-<iris>Iris V-iv</iris>
-<nota>Scríbhneoir - Eagarthóir</nota>
-<LINK VALUE="#">E. Mac Néill</LINK>
-</scl>
+
 </cnuas>
