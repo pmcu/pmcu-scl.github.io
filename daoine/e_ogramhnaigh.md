@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=517)
 ------------------
-# Ó Gramhnaigh Eoghan - 1863-1999
+# Ó Gramhnaigh Eoghan - 1863-1899
 
 ![](/pic/E_O_gramhnaigh.gif)
 
