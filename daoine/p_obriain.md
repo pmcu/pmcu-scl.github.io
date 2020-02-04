@@ -3,7 +3,7 @@
 # Ó Briain Pádaig - c.1848-1913
 
 Ba dhuine de bhunaitheoirí Chonradh na Gaeilge Pádraig Ó Briain. Ba mhór a
-shaothar ar son chúis na teangan. Ba fhoilsitheoir, clódóir, agus
+shaothar ar son chúis na teangan. Ba fhoilsitheoir, chlódóir, agus
 scríbhneoir é. D'oibir sé mar chló-eagraí leis an Irish Times. Bhí siopa
 grósaera ag a bhean i Sráid Chufa i mBaile Átha Cliath, agus ba i gcúl an
 tsiopa sin a bhí obair clódóireachta Phádraig ar siúl. Bhí sé de chrógacht
