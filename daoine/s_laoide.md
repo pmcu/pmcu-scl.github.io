@@ -10,7 +10,7 @@
 
 Is iomaí ról a bhí ag Seosamh Laoide i ngluaiseacht na Gaeilge le linn na
 mblianta údaí, 1893-1915:  scoláire Gaedhilge, bailitheoir béaloidis, comhchisteoir
-Chonradh na Gaedhilge, eagarthóir Irisleabhar na Gaedhilge, scríbhneoir ildánach,
+Chonradh na Gaeilge, eagarthóir Irisleabhar na Gaedhilge, scríbhneoir ildánach,
 fear foilsitheoireachta, fear eagraíochta agus spreagtha cúise.
 
 
