@@ -26,6 +26,13 @@
 <LINK VALUE="/daoine/e_ogramhnaigh.html">E. Ó Gramhnaigh</LINK>
 </scl>
 <scl id="14">
+<scl id="11">
+<ainm>Pádraig Ó Briain</ainm>
+<iris>Iris V-ii</iris>
+<nota>Scríbhneoir</nota>
+<LINK VALUE="/daoine/p_obriain.html">P. Ó Briain</LINK>
+</scl>
+<scl id="14">
 <ainm>Seosamh Laoide</ainm>
 <iris>Iris V-ii</iris>
 <nota>Scríbhneoir</nota>
