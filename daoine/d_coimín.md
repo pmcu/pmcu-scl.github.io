@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=131)
 ------------------
-# Coimín Daithí - 1854-1907
+# Coimín,  Daithí - 1854-1907
 
 > “An Gael ba dhúthrachtaí a casadh orm riamh go dtí sin” an cur síos a rinne Dubhghlas de hÍde ar an gCoimíneach, é ag tagairt do 1878 nuair a d’fhág na hoibrithe ba dhíograisí Cumann Buanchoimeádta na Gaeilge chun Aontacht na Gaeilge a bhunú. An Coimíneach ba mhó faoi deara Irisleabhar na Gaedhilge a thabhairt ar an saol agus ní mór é a áireamh ar an mbeagán ba mhó a rinne leas na teanga sa 19ú haois.
 

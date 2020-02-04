@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=307)
 ------------------
-# Ó Briain Pádaig - c.1848-1913
+# Ó Briain,  Pádaig - c.1848-1913
 
 Ba dhuine de bhunaitheoirí Chonradh na Gaeilge Pádraig Ó Briain. Ba mhór a
 shaothar ar son chúis na teangan. Ba fhoilsitheoir, chlódóir, agus

@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=38)
 ------------------
-# Pléimeann Seán - 1814-96
+# Pléimeann, Seán - 1814-96
 
 Ba é Seán Pléimeann an chéad eagarthóir de Iris na Gaeilge,
 agus ba é a scríobh an chéad alt. Seo thíos an chéad ghiota

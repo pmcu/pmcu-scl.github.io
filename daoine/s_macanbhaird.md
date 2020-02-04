@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=266)
 ------------------
-# Mac a' Bhaird - 1842-1914
+# Mac a' Bhaird, Seán - 1842-1914
 
 Rinne Seán Mac a' Bhaird cuid ollmhór oibre ar son na Gaeilge, go háirid do
 Ghaeilge Thír Chonaill.  'Ba é ba mhó a bhí ag scríobh faoi Ghaeilge Thír Chonaill in Irisleabhar na Gaeidhilge ó 1890 amach.'  Bhí baint lárnach ag Seán le Conradh na Gaeilge, Coláiste Uladh, Coláiste Adhamhnáin, agus Coláiste na gCeithre Máistrí.

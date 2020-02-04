@@ -1,6 +1,6 @@
 [Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=421)
 ------------------
-# De hÍde Dubhlghlas - 1860-1949
+# De hÍde,  Dubhlghlas - 1860-1949
 
 ![](/pic/dehide.jpg)
 
