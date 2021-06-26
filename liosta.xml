@@ -52,9 +52,9 @@
 <LINK VALUE="SC11/aodh.html">Aodh Beag</LINK>
 </scl>
 <scl id="11">
-<ainm>Scéal an Hata</ainm>
-<ceantar>Dearclaí</ceantar>
-<LINK VALUE="SC12/hata.html">Hata</LINK>
+<ainm>An Baoigheallach Beadaide</ainm>
+<ceantar>Cruit</ceantar>
+<LINK VALUE="SCL11/cruit.html">Baoigheallach Beadaide</LINK>
 </scl>
 
 </cnuas>
