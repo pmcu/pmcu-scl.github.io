@@ -51,6 +51,10 @@
 <ceantar>Muineachán</ceantar>
 <LINK VALUE="SC11/aodh.html">Aodh Beag</LINK>
 </scl>
-
+<scl id="11">
+<ainm>Scéal an Hata</ainm>
+<ceantar>Dearclaí</ceantar>
+<LINK VALUE="SC12/hata.html">Hata</LINK>
+</scl>
 
 </cnuas>
