@@ -38,7 +38,7 @@ function myFunction(xml) {
     table += "<tr><td>" +
     x[i].getElementsByTagName("ainm")[0].childNodes[0].nodeValue +
     "</td><td>" +
-   x[i].getElementsByTagName("ceantar")[0].childNodes[0].nodeValue +
+   x[i].getElementsByTagName("ceantar['Corcaí']")[0].childNodes[0].nodeValue +
    "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
