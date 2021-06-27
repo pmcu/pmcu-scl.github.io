@@ -10,12 +10,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     </head>
     <nav>
-<a href="index.html"> Baile </a>
+      <h4><a href="index.html"> Baile </a></h4>
 <hr />
 </nav>
   <h2>Corcaí</h2>
   <table border="1">
     <tr bgcolor="#9acd32">
+      <tr>
+      <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
+    </tr>
       <th>Ainm</th>
       <th>Ceantar</th>
       <th>Nasc</th>
