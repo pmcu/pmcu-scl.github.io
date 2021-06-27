@@ -6,8 +6,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <body>
     <script>
-    var name = window.prompt("Enter your name: ");
-    alert("Your name is " + name);
+    var ceant = window.prompt("Cuir isteach ceantar: ");
+
     
     </script>
     <head>
@@ -27,7 +27,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Nasc</th>
       
     </tr>
-    <xsl:for-each select="cnuas/scl[ceantar='Corcaí']">
+    <xsl:for-each select="cnuas/scl[ceantar=ceant]">
     <tr>
       <td><xsl:value-of select="ainm"/></td>
       <td><xsl:value-of select="ceantar"/></td>
