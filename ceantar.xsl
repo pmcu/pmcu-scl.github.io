@@ -5,6 +5,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
+    <script>
+    var name = window.prompt("Enter your name: ");
+    alert("Your name is " + name);
+    
+    </script>
     <head>
     <link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
 
