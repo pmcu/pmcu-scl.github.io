@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>Ainm</th>
       <th>Ceantar</th>
     </tr>
-    <xsl:for-each select="cnuas/scl[artist='Corcaí']">
+    <xsl:for-each select="cnuas/scl[ceantar='Corcaí']">
     <tr>
       <td><xsl:value-of select="ainm"/></td>
       <td><xsl:value-of select="ceantar"/></td>
