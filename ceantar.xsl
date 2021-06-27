@@ -5,11 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
-    <script>
-    var ceant = window.prompt("Cuir isteach ceantar: ");
-
     
-    </script>
     <head>
     <link rel="stylesheet" type="text/css" href="/style/xsl-style.css" />
 
