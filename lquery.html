@@ -16,7 +16,7 @@ xhttp.send();
 
 function showResult(xml) {
     var txt = "";
-    path = "/cnuas/scl[ceantar="Corcaí"]/ceantar";
+    path = "/cnuas/scl/ceantar";
     if (xml.evaluate) {
         var nodes = xml.evaluate(path, xml, null, XPathResult.ANY_TYPE, null);
         var result = nodes.iterateNext();
