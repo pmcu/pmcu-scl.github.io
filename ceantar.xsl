@@ -19,6 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <tr>
       <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
     </tr>
+      <tr>
       <th>Ainm</th>
       <th>Ceantar</th>
       <th>Nasc</th>
