@@ -15,10 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </nav>
   <h2>Corcaí</h2>
   <table border="1">
-    <tr bgcolor="#9acd32">
-      <tr>
-      <td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td>
-    </tr>
+    <tr bgcolor="#9acd32"><td><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></td></tr>
       <tr>
       <th>Ainm</th>
       <th>Ceantar</th>
