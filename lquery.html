@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h3>Dog Box</h3>
+    <h3>Scéalta ón Cheantar</h3>
 <p id="demo"></p>
-
+    <p id="demo2"></p>
 <script>
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -15,6 +15,7 @@ xhttp.open("GET", "liosta.xml", true);
 xhttp.send(); 
 
 function showResult(xml) {
+    var ceantar = "Dún na nGall";
     var txt = "";
     path = "/cnuas/scl/ceantar[text()='Dún na nGall']/../ainm";
     if (xml.evaluate) {
@@ -33,6 +34,7 @@ function showResult(xml) {
         }
     }
     document.getElementById("demo").innerHTML = txt;
+    document.getElementById("ceantar").innerHTML = ceantar;
 }
 </script>
 
