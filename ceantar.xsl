@@ -25,14 +25,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr>
       <td><xsl:value-of select="ainm"/></td>
       <td><xsl:value-of select="ceantar"/></td>
-    </tr>
+    
       <td>
 <a><xsl:attribute name="href">
 <xsl:value-of select="LINK/@VALUE"/></xsl:attribute>
 <xsl:value-of select="LINK"/>
 </a>
 </td>
-      
+ </tr>     
     </xsl:for-each>
   </table>
   </body>
