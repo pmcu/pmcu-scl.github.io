@@ -1,6 +1,6 @@
 body {
 	 width: 80%;
-          margin: 20%;
+          margin: 10%;
           background-image:url("/pic/old_moon.png");
       }
 
@@ -14,11 +14,11 @@ img {
   margin-right: auto;
 }
 p {
-  font-size: 24px;
+  font-size: 22px;
 }
 div {
   margin-top: 60px;
   margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-right: 100px;
+  margin-left: 60px;
 }
