@@ -19,13 +19,12 @@
 <p id="demo"></p>
 
 <script>
-  function GetSelectedValue(){
-                var e = document.getElementById("list");
-                var result = e.options[e.selectedIndex].value;
-  }
-  //var txt1 = "cat.txt";
+
+                
 function loadXMLDoc() {
-  var xmlhttp;
+   var e = document.getElementById("list");
+   var result = e.options[e.selectedIndex].value;
+   var xmlhttp;
   if (window.XMLHttpRequest) {
     xmlhttp = new XMLHttpRequest();
   } else {
