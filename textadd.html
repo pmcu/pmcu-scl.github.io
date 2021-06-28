@@ -4,12 +4,21 @@
    <link rel="stylesheet" type="text/css" href="text.css" />
    </head>
 <body>
+<nav>
+<button onclick="goBack()">Siar</button>
+<hr>
+</nav>
+<nav>
+<a href="index.html"> Baile </a> |
+<a href="liosta.xml"> Scéalta </a> |
+<hr>
    <div><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></div>
    
    <select id="list" style="padding: 10px;" onchange="getSelectValue();">
      <option value="dog.txt">Dog</option>
      <option value="aodh_beag.html">Aodh Beag</option>
    </select>
+   </nav>
    
     
         
@@ -18,7 +27,7 @@
 <!-- Using the XMLHttpRequest object -->
 <h2>Roghnaigh Scéal</h2>
 
-<button type="button" onclick="loadXMLDoc()">Change Content</button>
+<button type="button" onclick="loadXMLDoc()">Lód an Scéal</button>
 
 <div id="demo"></div>
 
