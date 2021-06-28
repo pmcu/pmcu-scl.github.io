@@ -19,13 +19,11 @@
 <p id="demo"></p>
 
 <script>
-   function getSelectValue()
-        {
-            var selectedValue = document.getElementById("list").value;
-           return selectedValue;
-            }
-        getSelectValue();
-  var txt1 = "cat.txt";
+  function GetSelectedValue(){
+                var e = document.getElementById("list");
+                var result = e.options[e.selectedIndex].value;
+  }
+  //var txt1 = "cat.txt";
 function loadXMLDoc() {
   var xmlhttp;
   if (window.XMLHttpRequest) {
@@ -40,7 +38,7 @@ function loadXMLDoc() {
       this.responseText;
     }
   };
-  xmlhttp.open("GET", selectedValue, true);
+  xmlhttp.open("GET", result, true);
   xmlhttp.send();
 }
 </script>
