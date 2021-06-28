@@ -1,5 +1,5 @@
 body {
-	 width: 70%;
+	 width: 80%;
           margin: 20%;
           background-image:url("/pic/old_moon.png");
       }
@@ -17,7 +17,7 @@ p {
   font-size: 24px;
 }
 div {
-  margin-top: 100px;
+  margin-top: 60px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
