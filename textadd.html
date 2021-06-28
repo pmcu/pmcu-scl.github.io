@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<body>
+   
+   <select id="list" style="padding: 10px;" onchange="getSelectValue();">
+     <option value="dog.txt">Dog</option>
+     <option value="cat.txt">cat</option>
+   </select>
+   
+    <script>
+        function getSelectValue()
+        {
+            var selectedValue = document.getElementById("list").value;
+            alert(selectedValue);
+        }
+        getSelectValue();
+    </script>
+ </body>
 <h2>Using the XMLHttpRequest object</h2>
 
 <button type="button" onclick="loadXMLDoc()">Change Content</button>
@@ -24,7 +39,7 @@ function loadXMLDoc() {
       this.responseText;
     }
   };
-  xmlhttp.open("GET", txt1, true);
+  xmlhttp.open("GET", selectedValue, true);
   xmlhttp.send();
 }
 </script>
