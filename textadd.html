@@ -8,21 +8,23 @@
 <nav>
 <a href="index.html"> Baile </a> |
 <a href="liosta.xml"> Scéalta </a> |
-</nav>   
+</nav>
 <hr>
    <div><img src="pic/IrisLeabhar-iii.jpg" alt="IG" ></img></div>
-<div> 
+<div>
    <h2>Roghnaigh Scéal</h2>
    <select id="list" style="padding: 10px;" onchange="getSelectValue();">
      <option value="briongloid.html">Brionglóid</option>
      <option value="aodh_beag.html">Aodh Beag</option>
        <option value="nora.html">Nóra</option>
+       <option value="domhnall-dubh.html">Domhnall Dubh</option>
+
    </select>
    </div>
 
-    
-        
-   
+
+
+
  </body>
 <!-- Using the XMLHttpRequest object -->
 
@@ -33,7 +35,7 @@
 
 <script>
 
-                
+
 function loadXMLDoc() {
    var e = document.getElementById("list");
    var result = e.options[e.selectedIndex].value;
