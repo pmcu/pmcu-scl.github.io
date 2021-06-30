@@ -1,4 +1,4 @@
-[Siar](/daoine.xml) | [Baile](/index.html) | [ainm.ie](https://www.ainm.ie/Bio.aspx?ID=38)
+[Siar](/liosta_fcl.xml) | [Baile](/index.html)
 ------------------
 # icíneacht - Scéal Sheáin Mic Bradáin
 
