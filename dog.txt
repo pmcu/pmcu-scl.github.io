@@ -1,7 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae faucibus turpis. 
-Fusce at commodo orci. Nulla consectetur lacinia condimentum. Pellentesque lacinia massa 
-metus, quis fringilla turpis sodales ac. Nulla sodales massa in blandit rhoncus. Etiam 
-id risus elit. In id sapien lobortis, porttitor arcu et, varius dui. Quisque in elit 
-ac erat consectetur congue ut tempor nunc. Curabitur congue ut mauris sed feugiat. Fusce
-magna neque, mattis sed ante et, mollis commodo magna. Suspendisse tempus diam vitae
-aliquam luctus. 
