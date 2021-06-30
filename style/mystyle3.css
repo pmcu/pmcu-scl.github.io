@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-image:url("../pic/old_moon.png");
 }
-p {
+div {
 	font-size: 18;
 }
 ul {
