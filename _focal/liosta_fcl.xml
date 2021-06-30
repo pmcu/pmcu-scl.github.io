@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="liosta_fcl.xsl"?>
+<cnuas>
+<fcl id="1">
+<scl>Scéal Mic Bradáin</scl>
+<focal>tonn</focal>
+<sampla>tonn mhaith aoise</sampla>
+<brl>a good bit of age</brl>
+<LINK VALUE="fcl/fcl_1.html">tonn</LINK>
+</fcl>
+
+<fcl id="2">
+<scl>Scéal Mic Bradáin</scl>
+<focal>icíneacht</focal>
+<sampla>lá icíneacht</sampla>
+<brl>some day</brl>
+<LINK VALUE="fcl/fcl_2.html">icíneacht</LINK>
+</fcl>
+</cnuas>
