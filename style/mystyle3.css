@@ -2,7 +2,9 @@ body {
     margin: 0;
     background-image:url("../pic/old_moon.png");
 }
-
+p {
+	font-size: 18;
+}
 ul {
     list-style-type: none;
     margin: 0;
