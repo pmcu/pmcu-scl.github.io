@@ -40,7 +40,9 @@ width:70%;
   .sidenav a {font-size: 18px;}
 }
 
-
+p {
+text-align: left;
+}
 
 
 header, footer {
