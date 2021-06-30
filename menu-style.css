@@ -35,26 +35,18 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-body {
-    margin: 0;
-    background-image:url("../pic/old_moon.png");
-}
-div {
-	font-size: 18px;
-}
 
 div {
+	font-size: 18px;
 	width:450px;
 }
+
+
 header, footer {
     padding: 1em;
     clear: left;
     text-align: center;
     border: 1px solid gray;
 }
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-	font-size: 18px;
-}
+
 
