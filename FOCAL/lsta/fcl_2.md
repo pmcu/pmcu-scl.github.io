@@ -1,4 +1,4 @@
-[Siar](/liosta_fcl.xml) | [Baile](/index.html)
+[Siar](../liosta_fcl.xml) | [Baile](/index.html)
 ------------------
 # icíneacht - Scéal Sheáin Mic Bradáin
 
