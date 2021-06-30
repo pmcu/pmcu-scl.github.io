@@ -10,7 +10,7 @@
  </head>
 <body>
 <nav>
-<a href="index.html"> Baile </a>
+	<a href="/index.html"> Baile </a>
 <hr />
 </nav>
   <table border="1">
