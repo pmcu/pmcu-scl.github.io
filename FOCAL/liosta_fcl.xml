@@ -16,4 +16,12 @@
 <brl>some day</brl>
 <LINK VALUE="lsta/fcl_2.html">icíneacht</LINK>
 </fcl>
+
+<fcl id="3">
+<scl>Scéal Mic Bradáin</scl>
+<focal>marbhadh</focal>
+<sampla>iasc do mharbhadh</sampla>
+<brl>catch a fish</brl>
+<LINK VALUE="lsta/fcl_3.html">marbhadh</LINK>
+</fcl>
 </cnuas>
