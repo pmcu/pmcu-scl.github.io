@@ -1,0 +1,8 @@
+
+<fcl id="4">
+<scl>   Scéal Mic Bradáin </scl>
+<focal>  crapadh              </focal>
+<sampla> ag crapadh suas a dhorú </sampla>
+<brl>    winding           </brl>
+<LINK VALUE="lsta/fcl_4.html">crapadh</LINK>
+</fcl>
